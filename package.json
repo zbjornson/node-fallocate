@@ -1,0 +1,12 @@
+{
+  "name": "fallocate",
+  "version": "1.0.0",
+  "description": "Allocate file space",
+  "main": "build/Release/fallocate.node",
+  "repository": "https://github.com/primitybio/fallocate.git",
+  "author": "Zach Bjornson <zbbjornson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.12.1"
+  }
+}
